@@ -1,3 +1,12 @@
+## Dataset
+
+MM-AVS: A Full-Scale Dataset for Multi-modal Summarization
+Xiyan Fu, Jun Wang and Zhenglu Yang
+
+MediaSum: A Large-scale Media Interview Dataset for Dialogue Summarization
+Chenguang Zhu, Yang Liu, Jie Mei and Michael Zeng
+
+## Others
 Noisy Self-Knowledge Distillation for Text Summarization
 Yang Liu, Sheng Shen and Mirella Lapata
 
@@ -7,9 +16,6 @@ Zi-Yi Dou, Pengfei Liu, Hiroaki Hayashi, Zhengbao Jiang and Graham Neubig
 Improving Zero and Few-Shot Abstractive Summarization with Intermediate Fine-tuning and Data Augmentation
 Alexander Fabbri, Simeng Han, Haoyuan Li, Haoran Li, Marjan Ghazvininejad, Shafiq Joty, Dragomir Radev and Yashar Mehdad
 
-MediaSum: A Large-scale Media Interview Dataset for Dialogue Summarization
-Chenguang Zhu, Yang Liu, Jie Mei and Michael Zeng
-
 Enhancing Factual Consistency of Abstractive Summarization
 Chenguang Zhu, William Hinthorn, Ruochen Xu, Qingkai Zeng, Michael Zeng, Xuedong Huang and Meng Jiang
 
@@ -18,9 +24,6 @@ Jiaao Chen and Diyi Yang
 
 Sliding Selector Network with Dynamic Memory for Extractive Summarization of Long Documents
 Peng Cui and Le Hu
-
-MM-AVS: A Full-Scale Dataset for Multi-modal Summarization
-Xiyan Fu, Jun Wang and Zhenglu Yang
 
 AdaptSum: Towards Low-Resource Domain Adaptation for Abstractive Summarization
 Tiezheng Yu, Zihan Liu and Pascale Fung
