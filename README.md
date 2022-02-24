@@ -19,5 +19,10 @@ https://arxiv.org/pdf/2104.08757.pdf
 https://arxiv.org/pdf/2102.02201.pdf \
 https://arxiv.org/pdf/2105.00303.pdf
 
-# Interesting read
-https://arxiv.org/pdf/2105.01601.pdf
+# Interesting Reads
+https://arxiv.org/pdf/2105.01601.pdf \
+https://arxiv.org/abs/2202.10967 \
+https://ml-jku.github.io/hopfield-layers/ \
+https://ml-jku.github.io/cloob/ \
+https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3 \
+https://arxiv.org/abs/2104.13478
