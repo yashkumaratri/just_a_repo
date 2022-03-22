@@ -19,6 +19,43 @@ https://arxiv.org/pdf/2104.08757.pdf
 https://arxiv.org/pdf/2102.02201.pdf \
 https://arxiv.org/pdf/2105.00303.pdf
 
+
+# Multimodal
+https://arxiv.org/pdf/2107.00135.pdf \
+https://arxiv.org/pdf/2201.02639.pdf \
+https://arxiv.org/pdf/2106.02636v2.pdf \
+
+
+# Summarization Evaluation
+https://arxiv.org/pdf/2109.11503.pdf \
+https://arxiv.org/pdf/2104.09061.pdf \
+https://arxiv.org/pdf/2101.12406.pdf \
+https://arxiv.org/pdf/2007.12626.pdf \
+https://arxiv.org/pdf/1904.09751.pdf \
+
+# Summarization Mixed
+https://arxiv.org/abs/2107.00176 \
+
+
+# Text Summarization
+https://arxiv.org/pdf/2104.08400.pdf
+https://aclanthology.org/D19-1387.pdf \
+https://arxiv.org/ftp/arxiv/papers/2010/2010.06253.pdf \
+https://dl.acm.org/doi/10.1145/3404835.3463111 \
+https://arxiv.org/pdf/2104.03057.pdf \
+https://aclanthology.org/2021.eacl-main.213.pdf \
+https://arxiv.org/pdf/2109.07943v2.pdf \
+https://arxiv.org/abs/2110.04878 \
+https://arxiv.org/abs/2106.00619 \
+https://arxiv.org/pdf/2102.06272.pdf \
+https://www.semanticscholar.org/paper/Ranking-Sentences-for-Extractive-Summarization-with-Narayan-Cohen/59562be2cf8e01e8b7bb7560cef56158ea171227\
+https://www.semanticscholar.org/paper/Automatic-summarization-of-scientific-articles%3A-A-Altmami-Menai/6abcf4f8ad0f265863dff913240afa715888c11f \
+https://www.sciencedirect.com/science/article/pii/S1319157820303554?via%3Dihub \
+https://www.semanticscholar.org/paper/Don%E2%80%99t-Give-Me-the-Details%2C-Just-the-Summary!-Neural-Narayan-Cohen/305b2cf37e5dece81e95c92883d5a6e28ac93b22 \
+https://arxiv.org/abs/1706.03946 \
+
+
+
 # Interesting Reads
 https://arxiv.org/pdf/2105.01601.pdf \
 https://arxiv.org/abs/2202.10967 \
@@ -26,3 +63,17 @@ https://ml-jku.github.io/hopfield-layers/ \
 https://ml-jku.github.io/cloob/ \
 https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3 \
 https://arxiv.org/abs/2104.13478
+https://arxiv.org/pdf/2202.03629.pdf \
+https://arxiv.org/pdf/2105.03824.pdf \
+https://www.sciencedirect.com/science/article/pii/S0004370221000862 \
+https://dawn.cs.stanford.edu/2019/10/10/noneuclidean/ \
+https://arxiv.org/pdf/2002.05202.pdf \
+
+
+# ATtention
+https://arxiv.org/pdf/2102.03902.pdf \
+https://arxiv.org/pdf/2102.08602.pdf \
+
+# Links
+https://github.com/nalexai/hyperlib \
+
