@@ -1,4 +1,25 @@
-# just_a_repo
+# Papers Track
+
+
+| # | Area | Link | Title | Remark | 
+| --- | --- | --- | --- | --- |
+| 1 | **Table to Text** | https://arxiv.org/pdf/2004.14373.pdf | Placeholder | https://ai.googleblog.com/2021/01/totto-controlled-table-to-text.html & wget https://storage.googleapis.com/totto/totto_data.zip  |
+| 2 | **Video Segmentation** | https://dl.acm.org/doi/abs/10.1145/3331184.3331400  | Placeholder | Placeholder |
+| 3 | **Machine Translation** | https://arxiv.org/pdf/2004.15015.pdf | Placeholder | Placeholder|
+|  |  | https://arxiv.org/pdf/2010.03737.pdf | Placeholder | Placeholder |
+|  |  | https://arxiv.org/pdf/2009.08088.pdf | Placeholder | Placeholder|
+|  |  | https://arxiv.org/pdf/2104.08757.pdf | Placeholder | Placeholder |
+| 4 | **Explanation Data** | https://arxiv.org/pdf/2102.02201.pdf | Placeholder | Placeholder|
+|  |  | https://arxiv.org/pdf/2105.00303.pdf | Placeholder | Placeholder |
+| 5 | **Multimodal** | https://arxiv.org/pdf/2107.00135.pdf | Placeholder | Placeholder|
+|  |  | https://arxiv.org/pdf/2201.02639.pdf | Placeholder | Placeholder |
+|  |  | https://arxiv.org/pdf/2106.02636v2.pdf | Placeholder | Placeholder |
+| 6 | **Summarization Evaluation** | https://arxiv.org/pdf/2109.11503.pdf | Placeholder | Placeholder |
+|  |  | https://arxiv.org/pdf/2104.09061.pdf | Placeholder | Placeholder |
+|  |  | https://arxiv.org/pdf/2101.12406.pdf | Placeholder | Placeholder |
+|  |  | https://arxiv.org/pdf/2007.12626.pdf | Placeholder | Placeholder |
+|  |  | https://arxiv.org/pdf/1904.09751.pdf | Placeholder | Placeholder |
+| 7 | **Summarization Mixed** | https://arxiv.org/abs/2107.00176 | Placeholder | Placeholder |
 
 # Table to Text
 https://arxiv.org/pdf/2004.14373.pdf \
