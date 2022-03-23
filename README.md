@@ -38,7 +38,7 @@ https://arxiv.org/abs/2107.00176 \
 
 
 # Text Summarization
-https://arxiv.org/pdf/2104.08400.pdf
+https://arxiv.org/pdf/2104.08400.pdf \
 https://aclanthology.org/D19-1387.pdf \
 https://arxiv.org/ftp/arxiv/papers/2010/2010.06253.pdf \
 https://dl.acm.org/doi/10.1145/3404835.3463111 \
@@ -54,6 +54,8 @@ https://www.sciencedirect.com/science/article/pii/S1319157820303554?via%3Dihub \
 https://www.semanticscholar.org/paper/Don%E2%80%99t-Give-Me-the-Details%2C-Just-the-Summary!-Neural-Narayan-Cohen/305b2cf37e5dece81e95c92883d5a6e28ac93b22 \
 https://arxiv.org/abs/1706.03946 \
 
+# Dataset Distillation
+https://arxiv.org/pdf/2203.11932.pdf \
 
 
 # Interesting Reads
@@ -68,6 +70,7 @@ https://arxiv.org/pdf/2105.03824.pdf \
 https://www.sciencedirect.com/science/article/pii/S0004370221000862 \
 https://dawn.cs.stanford.edu/2019/10/10/noneuclidean/ \
 https://arxiv.org/pdf/2002.05202.pdf \
+https://arxiv.org/pdf/2203.10202v1.pdf \
 
 
 # ATtention
@@ -76,4 +79,6 @@ https://arxiv.org/pdf/2102.08602.pdf \
 
 # Links
 https://github.com/nalexai/hyperlib \
+https://georgecazenavette.github.io/mtt-distillation \
+
 
