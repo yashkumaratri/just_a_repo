@@ -87,6 +87,7 @@ https://arxiv.org/pdf/2203.11932.pdf \
 
 
 # Interesting Reads
+https://arxiv.org/pdf/2201.05887.pdf \
 https://arxiv.org/pdf/2203.11931.pdf \
 https://arxiv.org/pdf/2105.01601.pdf \
 https://arxiv.org/abs/2202.10967 \
@@ -107,8 +108,15 @@ https://arxiv.org/pdf/2102.03902.pdf \
 https://arxiv.org/pdf/2102.08602.pdf \
 
 # Links
+https://arxiv.org/pdf/2109.13059.pdf \
 https://github.com/nalexai/hyperlib \
 https://georgecazenavette.github.io/mtt-distillation \
 https://github.com/TranSMS/M2TS
+ 
+# Ext.
 
+https://github.com/amzn/trans-encoder : Sentence Similarity
+
+https://arxiv.org/pdf/2203.11171.pdf : Arithmetic Reasonings
+https://arxiv.org/abs/2103.14030: Swin Transformer
 
