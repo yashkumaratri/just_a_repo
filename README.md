@@ -87,6 +87,7 @@ https://arxiv.org/pdf/2203.11932.pdf \
 
 
 # Interesting Reads
+https://arxiv.org/pdf/2203.11931.pdf \
 https://arxiv.org/pdf/2105.01601.pdf \
 https://arxiv.org/abs/2202.10967 \
 https://ml-jku.github.io/hopfield-layers/ \
@@ -108,5 +109,6 @@ https://arxiv.org/pdf/2102.08602.pdf \
 # Links
 https://github.com/nalexai/hyperlib \
 https://georgecazenavette.github.io/mtt-distillation \
+https://github.com/TranSMS/M2TS
 
 
