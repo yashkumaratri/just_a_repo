@@ -44,7 +44,7 @@ https://arxiv.org/pdf/2105.00303.pdf
 # Multimodal
 https://arxiv.org/pdf/2107.00135.pdf \
 https://arxiv.org/pdf/2201.02639.pdf \
-https://arxiv.org/pdf/2106.02636v2.pdf \
+https://arxiv.org/pdf/2106.02636v2.pdf 
 
 
 # Summarization Evaluation
@@ -52,7 +52,7 @@ https://arxiv.org/pdf/2109.11503.pdf \
 https://arxiv.org/pdf/2104.09061.pdf \
 https://arxiv.org/pdf/2101.12406.pdf \
 https://arxiv.org/pdf/2007.12626.pdf \
-https://arxiv.org/pdf/1904.09751.pdf \
+https://arxiv.org/pdf/1904.09751.pdf 
 
 # Summarization Mixed
 https://arxiv.org/abs/2107.00176 \
@@ -73,7 +73,7 @@ https://arxiv.org/pdf/2109.07943v2.pdf \
 https://arxiv.org/abs/2110.04878 \
 https://arxiv.org/abs/2106.00619 \
 https://arxiv.org/pdf/2102.06272.pdf \
-https://www.semanticscholar.org/paper/Ranking-Sentences-for-Extractive-Summarization-with-Narayan-Cohen/59562be2cf8e01e8b7bb7560cef56158ea171227\
+https://www.semanticscholar.org/paper/Ranking-Sentences-for-Extractive-Summarization-with-Narayan-Cohen/59562be2cf8e01e8b7bb7560cef56158ea171227 \
 https://www.semanticscholar.org/paper/Automatic-summarization-of-scientific-articles%3A-A-Altmami-Menai/6abcf4f8ad0f265863dff913240afa715888c11f \
 https://www.sciencedirect.com/science/article/pii/S1319157820303554?via%3Dihub \
 https://www.semanticscholar.org/paper/Don%E2%80%99t-Give-Me-the-Details%2C-Just-the-Summary!-Neural-Narayan-Cohen/305b2cf37e5dece81e95c92883d5a6e28ac93b22 \
@@ -87,6 +87,7 @@ https://arxiv.org/pdf/2203.11932.pdf \
 
 
 # Interesting Reads
+https://proceedings.neurips.cc/paper/1989/file/a597e50502f5ff68e3e25b9114205d4a-Paper.pdf \
 https://arxiv.org/pdf/2201.05887.pdf \
 https://arxiv.org/pdf/2203.11931.pdf \
 https://arxiv.org/pdf/2105.01601.pdf \
@@ -100,7 +101,7 @@ https://arxiv.org/pdf/2105.03824.pdf \
 https://www.sciencedirect.com/science/article/pii/S0004370221000862 \
 https://dawn.cs.stanford.edu/2019/10/10/noneuclidean/ \
 https://arxiv.org/pdf/2002.05202.pdf \
-https://arxiv.org/pdf/2203.10202v1.pdf \
+https://arxiv.org/pdf/2203.10202v1.pdf 
 
 
 # ATtention
