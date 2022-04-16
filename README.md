@@ -116,8 +116,9 @@ https://github.com/TranSMS/M2TS
  
 # Ext.
 
-https://github.com/amzn/trans-encoder : Sentence Similarity
+https://github.com/amzn/trans-encoder : Sentence Similarity \
 
-https://arxiv.org/pdf/2203.11171.pdf : Arithmetic Reasonings
-https://arxiv.org/abs/2103.14030: Swin Transformer
+https://arxiv.org/pdf/2203.11171.pdf : Arithmetic Reasonings \
+https://arxiv.org/abs/2103.14030: Swin Transformer \
+https://arxiv.org/pdf/2203.08773.pdf
 
