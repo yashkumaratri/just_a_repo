@@ -120,5 +120,6 @@ https://github.com/amzn/trans-encoder : Sentence Similarity \
 
 https://arxiv.org/pdf/2203.11171.pdf : Arithmetic Reasonings \
 https://arxiv.org/abs/2103.14030: Swin Transformer \
-https://arxiv.org/pdf/2203.08773.pdf
+https://arxiv.org/pdf/2203.08773.pdf \
+https://api.semanticscholar.org/graph/v1#operation/get_graph_get_paper
 
