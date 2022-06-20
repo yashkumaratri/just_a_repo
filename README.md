@@ -56,7 +56,7 @@ https://arxiv.org/pdf/1904.09751.pdf
 
 # Summarization Mixed
 https://arxiv.org/abs/2107.00176 \
-https://arxiv.org/pdf/2203.09176v1.pdf \
+https://arxiv.org/pdf/2203.09176v1.pdf 
 
 
 # Text Summarization
@@ -77,13 +77,13 @@ https://www.semanticscholar.org/paper/Ranking-Sentences-for-Extractive-Summariza
 https://www.semanticscholar.org/paper/Automatic-summarization-of-scientific-articles%3A-A-Altmami-Menai/6abcf4f8ad0f265863dff913240afa715888c11f \
 https://www.sciencedirect.com/science/article/pii/S1319157820303554?via%3Dihub \
 https://www.semanticscholar.org/paper/Don%E2%80%99t-Give-Me-the-Details%2C-Just-the-Summary!-Neural-Narayan-Cohen/305b2cf37e5dece81e95c92883d5a6e28ac93b22 \
-https://arxiv.org/abs/1706.03946 \
+https://arxiv.org/abs/1706.03946 
 
 # Text Summarization Ext.
 https://arxiv.org/pdf/2110.03179v2.pdf \
 https://arxiv.org/pdf/2106.01345.pdf
 # Dataset Distillation
-https://arxiv.org/pdf/2203.11932.pdf \
+https://arxiv.org/pdf/2203.11932.pdf 
 
 
 # Interesting Reads
@@ -101,12 +101,13 @@ https://arxiv.org/pdf/2105.03824.pdf \
 https://www.sciencedirect.com/science/article/pii/S0004370221000862 \
 https://dawn.cs.stanford.edu/2019/10/10/noneuclidean/ \
 https://arxiv.org/pdf/2002.05202.pdf \
-https://arxiv.org/pdf/2203.10202v1.pdf 
+https://arxiv.org/pdf/2203.10202v1.pdf  \
+https://arxiv.org/abs/2206.07568?context=cs.AI | https://ben-eysenbach.github.io/contrastive_rl/
 
 
-# ATtention
+# Attention
 https://arxiv.org/pdf/2102.03902.pdf \
-https://arxiv.org/pdf/2102.08602.pdf \
+https://arxiv.org/pdf/2102.08602.pdf 
 
 # Links
 https://arxiv.org/pdf/2109.13059.pdf \
