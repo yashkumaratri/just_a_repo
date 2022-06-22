@@ -102,7 +102,8 @@ https://www.sciencedirect.com/science/article/pii/S0004370221000862 \
 https://dawn.cs.stanford.edu/2019/10/10/noneuclidean/ \
 https://arxiv.org/pdf/2002.05202.pdf \
 https://arxiv.org/pdf/2203.10202v1.pdf  \
-https://arxiv.org/abs/2206.07568?context=cs.AI | https://ben-eysenbach.github.io/contrastive_rl/
+https://arxiv.org/abs/2206.07568?context=cs.AI | https://ben-eysenbach.github.io/contrastive_rl/ \
+https://openaccess.thecvf.com/content/CVPR2021/papers/Nguyen_Clusformer_A_Transformer_Based_Clustering_Approach_to_Unsupervised_Large-Scale_Face_CVPR_2021_paper.pdf
 
 
 # Attention
