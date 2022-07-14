@@ -79,6 +79,9 @@ https://www.sciencedirect.com/science/article/pii/S1319157820303554?via%3Dihub \
 https://www.semanticscholar.org/paper/Don%E2%80%99t-Give-Me-the-Details%2C-Just-the-Summary!-Neural-Narayan-Cohen/305b2cf37e5dece81e95c92883d5a6e28ac93b22 \
 https://arxiv.org/abs/1706.03946 
 
+# Query focused summarization
+https://dl.acm.org/doi/pdf/10.1145/3477495.3531901
+
 # Text Summarization Ext.
 https://arxiv.org/pdf/2110.03179v2.pdf \
 https://arxiv.org/pdf/2106.01345.pdf
