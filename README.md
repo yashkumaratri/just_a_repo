@@ -77,7 +77,8 @@ https://www.semanticscholar.org/paper/Ranking-Sentences-for-Extractive-Summariza
 https://www.semanticscholar.org/paper/Automatic-summarization-of-scientific-articles%3A-A-Altmami-Menai/6abcf4f8ad0f265863dff913240afa715888c11f \
 https://www.sciencedirect.com/science/article/pii/S1319157820303554?via%3Dihub \
 https://www.semanticscholar.org/paper/Don%E2%80%99t-Give-Me-the-Details%2C-Just-the-Summary!-Neural-Narayan-Cohen/305b2cf37e5dece81e95c92883d5a6e28ac93b22 \
-https://arxiv.org/abs/1706.03946 
+https://arxiv.org/abs/1706.03946 \
+https://arxiv.org/pdf/2205.12476.pdf
 
 # Query focused summarization
 https://dl.acm.org/doi/pdf/10.1145/3477495.3531901
@@ -106,7 +107,8 @@ https://dawn.cs.stanford.edu/2019/10/10/noneuclidean/ \
 https://arxiv.org/pdf/2002.05202.pdf \
 https://arxiv.org/pdf/2203.10202v1.pdf  \
 https://arxiv.org/abs/2206.07568?context=cs.AI | https://ben-eysenbach.github.io/contrastive_rl/ \
-https://openaccess.thecvf.com/content/CVPR2021/papers/Nguyen_Clusformer_A_Transformer_Based_Clustering_Approach_to_Unsupervised_Large-Scale_Face_CVPR_2021_paper.pdf
+https://openaccess.thecvf.com/content/CVPR2021/papers/Nguyen_Clusformer_A_Transformer_Based_Clustering_Approach_to_Unsupervised_Large-Scale_Face_CVPR_2021_paper.pdf \
+https://github.com/allenai/primer
 
 
 # Attention
